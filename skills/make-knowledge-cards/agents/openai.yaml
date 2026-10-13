@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn Markdown or text into study cards"
+  default_prompt: "Create knowledge cards from the provided Markdown or text file."
